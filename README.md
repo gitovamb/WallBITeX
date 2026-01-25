@@ -14,3 +14,7 @@ WBX is designed as an ecosystem and utility token.
 
 ## Resources
 - BscScan: https://bscscan.com/token/0xe1370151e4fEb0694dCC14D2EBaB1cD756EbE83D
+
+## Official contact
+Official contact: noreplywallbit@gmail.com
+
