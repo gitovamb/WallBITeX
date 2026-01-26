@@ -27,5 +27,5 @@ At this stage, the team operates under a pseudonymous structure while maintainin
 - Tokens were deployed directly on-chain without public fundraising.
 
 ## Official Resources
-- Repository & Project Page: https://github.com/USERNAME/WallBITeX
+- Repository & Project Page: https://github.com/gitovamb/WallBITeX
 - Official Contact Email: noreplywallbit@gmail.com
