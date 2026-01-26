@@ -12,6 +12,12 @@ WBX is designed to support ecosystem utilities, access features, and future bloc
 - Contract Address:  
   0xe1370151e4fEb0694dCC14D2EBaB1cD756EbE83D
 
+## DEX Listing
+WBX can be traded on decentralized exchanges that support BNB Smart Chain.
+WBX is available for decentralized exchange on PancakeSwap via the official liquidity pool.
+PancakeSwap:
+https://pancakeswap.finance/swap?outputCurrency=0xe1370151e4fEb0694dCC14D2EBaB1cD756EbE83D
+
 ## Governance & Management
 - The smart contract ownership has been renounced.
 - An internal administrative role is implemented within the smart contract for protocol parameter management.
